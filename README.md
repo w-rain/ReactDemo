@@ -1,4 +1,4 @@
-# ReactDome
+# ReactDemo
 Gulp搭建的React框架，使用PostCSS来自动化编译css。
 >
 <ol>
