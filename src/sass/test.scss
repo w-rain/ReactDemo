@@ -1,0 +1,34 @@
+
+$font-stack: Helvetica, sans-serif;
+
+$primary-color: #333;
+
+body {
+  font: 100% $font-stack;
+  color: $primary-color;
+}
+
+.test {
+    background: black;
+}
+
+/* Testing autoprefixer */
+
+.autoprefixer {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+/* Testing cssnext */
+
+.cssnext {
+  background: rgba(255, 0, 0, 0.9);
+}
+
+/* Testing precss */
+
+.precss {
+  background: green
+}
